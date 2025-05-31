@@ -5,7 +5,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naim-ECE&label=Profile%20views&color=0e75b6&style=flat" alt="naim" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naim-ECE" alt="naim" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
 
 - 🔭 I’m currently working on [WildLex](#)
 
