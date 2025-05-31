@@ -79,9 +79,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake.svg" />
 </picture>
 
 <picture>
@@ -90,7 +90,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/pacman-contribution-graph.svg">
 </picture>
 
-
+<!-- pacman-contribution-graph-dark.svg -->
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
