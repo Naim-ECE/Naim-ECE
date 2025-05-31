@@ -53,8 +53,11 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact#gh-dark-mode-only" alt="Dark Mode Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact#gh-light-mode-only" alt="Light Mode Stats" height="200" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=default&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact" alt="Top Languages" height="200" />
+  </picture>
 </p>
 <p align="left">
     <picture>
@@ -64,8 +67,11 @@
   </picture>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=cobalt#gh-dark-mode-only" alt="Dark Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=light#gh-light-mode-only" alt="Light Streak" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=light">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=transparent" alt="Dynamic Streak">
+  </picture>
 </p>
 
 <picture>
