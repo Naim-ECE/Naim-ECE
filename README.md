@@ -60,7 +60,7 @@
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=default&locale=en&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact" alt="Top Languages" height="250" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact" alt="Top Languages" height="200" />
   </picture>
 </p>
 <p align="left">
