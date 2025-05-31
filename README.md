@@ -79,9 +79,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Naim-ECE/Naim-ECE/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Naim-ECE/overview_helper_contributions/blob/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Naim-ECE/overview_helper_contributions/blob/main/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Naim-ECE/overview_helper_contributions/blob/main/github-snake.svg" />
 </picture>
 
 <!--<picture>
