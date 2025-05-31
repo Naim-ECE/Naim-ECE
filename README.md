@@ -3,9 +3,9 @@
 <h1 align="left">This is Naim</h1>
 <h3 align="left">A passionate frontend developer and problem solving enthusiast from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naim&label=Profile%20views&color=0e75b6&style=flat" alt="naim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naim-ECE&label=Profile%20views&color=0e75b6&style=flat" alt="naim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naim" alt="naim" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naim-ECE" alt="naim" /></a> </p>
 
 - 🔭 I’m currently working on [WildLex](#)
 
