@@ -57,8 +57,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact#gh-light-mode-only" alt="Light Mode Stats" height="200" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=dark&show_icons=true&locale=en#gh-dark-mode-only" alt="Dark Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=default&show_icons=true&locale=en#gh-light-mode-only" alt="Light Stats" height="200" />
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=dark&show_icons=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=default&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=transparent&show_icons=true" alt="Dynamic Stats">
+  </picture>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=cobalt#gh-dark-mode-only" alt="Dark Streak" />
