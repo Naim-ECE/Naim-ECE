@@ -58,23 +58,23 @@
 
 <p align="left">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=default&locale=en&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact" alt="Top Languages" height="200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact&cache_seconds=86400&random=20240601">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=default&locale=en&layout=compact&cache_seconds=86400&random=20240601">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact&cache_seconds=86400&random=20240601" alt="Top Languages" height="200" />
   </picture>
 </p>
 <p align="left">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=dark&show_icons=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=default&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=transparent&show_icons=true" alt="Dynamic Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=dark&show_icons=true&cache_seconds=86400&random=20240601">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=default&show_icons=true&cache_seconds=86400&random=20240601">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=transparent&show_icons=true&cache_seconds=86400&random=20240601" alt="Dynamic Stats">
   </picture>
 </p>
 <p align="left">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=light">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=transparent" alt="Dynamic Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=dark&cache_seconds=86400&random=20240601">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=light&cache_seconds=86400&random=20240601">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=transparent&cache_seconds=86400&random=20240601" alt="Dynamic Streak">
   </picture>
 </p>
 
