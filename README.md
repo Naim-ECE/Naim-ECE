@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="left">This is Naim</h1>
-<h3 align="left">A passionate frontend developer and problem solving enthusiast from Bangladesh <img src="https://cdn.pixabay.com/animation/2022/08/01/03/43/03-43-08-674_512.gif" width="40" alt="BD Flag"></h3>
+<h3 align="left">A passionate frontend developer and problem solving enthusiast from Bangladesh <img src="https://cdn.pixabay.com/animation/2022/08/01/03/43/03-43-08-674_512.gif" width="30" alt="BD Flag"></h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naim-ECE&label=Profile%20views&color=0e75b6&style=flat" alt="naim" /> </p> -->
 
