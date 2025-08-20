@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [WildLex (animal encyclopedia using html, css & js)](https://naim-ece.github.io/Software-Development-Project-I/index.html)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 
