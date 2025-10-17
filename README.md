@@ -9,7 +9,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on [WildLex (animal encyclopedia using html, css & js)](https://naim-ece.github.io/Software-Development-Project-I/index.html)
+- 🔭 I’m currently working on [Frontend]
 
 - 🌱 I’m currently learning **TypeScript**
 
