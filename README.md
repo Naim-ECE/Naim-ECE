@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Backend]
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 
