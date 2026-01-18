@@ -60,6 +60,7 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pr" alt="premirepro" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/> </a>
+<a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  /></a>
 </p>
 
 
