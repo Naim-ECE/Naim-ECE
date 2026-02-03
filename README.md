@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Backend]
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 
@@ -51,6 +51,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" height="40"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  /></a>
 <!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
 
 <br />
