@@ -3,84 +3,54 @@
 <h1 align="left">This is Naim</h1>
 <h3 align="left">A passionate web developer and problem solving enthusiast from Bangladesh <img src="https://cdn.pixabay.com/animation/2022/08/01/03/43/03-43-08-674_512.gif" width="30" alt="BD Flag"></h3>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naim-ECE&label=Profile%20views&color=0e75b6&style=flat" alt="naim" /> </p> -->
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on [Backend]
-
-- 🌱 I’m currently learning **MongoDB**
-
+- 🔭 I'm currently working on [Backend]
+- 🌱 I'm currently learning **MongoDB**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
-
-<!--- 💬 Ask me about **C/C++ & frontend development** -->
-
 - 📫 Reach me **naimur2210026@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IaIsEEwelJzKPCx0ERpkCejXUeAlOes7/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am a funny person**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-naimur-rahman-naim-6686b532b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="naim" height="30" width="40" /></a>
-<a href="https://www.facebook.com/md.naimur.rahman.28514335272420" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/naimur2210026" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Naimur_Rahman_Naim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naim" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/y9HXRRQL3x/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naim" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimur-rahman-naim-6686b532b)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.naimur.rahman.28514335272420)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/naimur2210026)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Naimur_Rahman_Naim)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/y9HXRRQL3x/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  /></a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap logo"  /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" /></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  /></a>
-<!-- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> -->
+<!-- Group 1: Core / System Languages -->
+![](https://skillicons.dev/icons?i=c,cpp,java,matlab)
 
-<br />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pr" alt="premirepro" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/> </a>
-<a href="https://web.autocad.com/login" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  /></a>
-</p>
+<!-- Group 2: Web & Backend -->
+![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,mysql,tailwind,ts,nextjs,nodejs,express,mongodb)
 
+<!-- Group 3: Tools & IDEs -->
+![](https://skillicons.dev/icons?i=git,github,ps,pr,vscode,autocad)
 
 <p align="left">
-    <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact&cache_seconds=86400&random=20240601">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=default&locale=en&layout=compact&cache_seconds=86400&random=20240601">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=transparent&locale=en&layout=compact&cache_seconds=86400&random=20240601" alt="Top Languages" height="200" />
   </picture>
 </p>
+
 <p align="left">
-    <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=dark&show_icons=true&cache_seconds=86400&random=20240601">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=default&show_icons=true&cache_seconds=86400&random=20240601">
     <img src="https://github-readme-stats.vercel.app/api?username=Naim-ECE&theme=transparent&show_icons=true&cache_seconds=86400&random=20240601" alt="Dynamic Stats">
   </picture>
 </p>
+
 <p align="left">
-    <picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=dark&cache_seconds=86400&random=20240601">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=light&cache_seconds=86400&random=20240601">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naim-ECE&theme=transparent&cache_seconds=86400&random=20240601" alt="Dynamic Streak">
