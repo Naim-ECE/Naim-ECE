@@ -24,15 +24,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Group 1: Core / System Languages -->
-![](https://skillicons.dev/icons?i=c,cpp,java,matlab)
-
-<!-- Group 2: Web & Backend -->
-![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,mysql,tailwind,ts,nextjs,nodejs,express,mongodb)
-
-<!-- Group 3: Tools & IDEs -->
-![](https://skillicons.dev/icons?i=git,github,ps,pr,vscode,autocad)
-
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB" /></a>
+  <br />
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" /></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" /></a>
+  <br />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Photoshop" /></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Premiere Pro" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" /></a>
+  <a href="https://web.autocad.com/" target="_blank"><img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD" title="AutoCAD" /></a>
+</p>
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-ECE&theme=dark&locale=en&layout=compact&cache_seconds=86400&random=20240601">
