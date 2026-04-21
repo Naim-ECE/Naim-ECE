@@ -49,6 +49,7 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Photoshop" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://skillicons.dev/icons?i=pr" height="40" alt="Premiere Pro" title="Premiere Pro" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="Webstorm" title="Webstorm" /></a>
   <a href="https://web.autocad.com/" target="_blank"><img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD" title="AutoCAD" /></a>
 </p>
 <p align="left">
