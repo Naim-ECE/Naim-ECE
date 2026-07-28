@@ -7,8 +7,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I'm currently working on [Backend]
-- 🌱 I'm currently learning **MongoDB**
+- 🔭 I'm currently working on [ML & DL]
+- 🌱 I'm currently learning **MCP Server Security**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 - 📫 Reach me **naimur2210026@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IaIsEEwelJzKPCx0ERpkCejXUeAlOes7/view?usp=sharing)
