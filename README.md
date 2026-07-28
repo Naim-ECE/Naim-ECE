@@ -50,6 +50,7 @@
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" /></a>
 </p>
 
 <p align="left"><b>04 · Database</b></p>
