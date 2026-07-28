@@ -28,6 +28,7 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" /></a>
