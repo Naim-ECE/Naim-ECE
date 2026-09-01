@@ -57,6 +57,7 @@
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" title="PostgreSQL" /></a>
 </p>
 
 <p align="left"><b>05 · Version Control</b></p>
