@@ -7,7 +7,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" src="https://tenor.com/en-GB/view/waving-pikachu-gif-cute-hi-gif-15583157" alt="Pokemon Welcome" width="300" />
+<img align="right" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Pokemon Welcome" width="300" />
 
 - 🔭 I'm currently working on **ML & DL**
 - 🌱 I'm currently learning **MCP Server Security**
