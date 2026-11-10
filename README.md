@@ -7,6 +7,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Naim-ECE&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR4YndseWxwa2s4MDNzb3VvZ2ZtMjBwbXFieW4xcGRvdmo0bmlldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vnGlErQHuF9BK/giphy.gif" alt="Pokemon Welcome" width="300" />
+
 - 🔭 I'm currently working on [ML & DL]
 - 🌱 I'm currently learning **MCP Server Security**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
