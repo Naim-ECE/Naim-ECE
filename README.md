@@ -47,12 +47,15 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" /></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" /></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React Native" title="React Native" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://cdn.simpleicons.org/expo/4630EB" height="40" alt="Expo" title="Expo" /></a>
 </p>
 
 <p align="left"><b>03 · Backend</b></p>
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" /></a>
+  <a href="https://socket.io/" target="_blank"><img src="https://cdn.simpleicons.org/socketdotio/25C2A0" height="40" alt="Socket.io" title="Socket.io" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" /></a>
 </p>
 
