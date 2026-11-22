@@ -9,8 +9,8 @@
 
 <img align="right" src="https://media.tenor.com/0WkmuOC_W00AAAAi/waving-pikachu.gif" alt="Pokemon Welcome" width="300" />
 
-- 🔭 I'm currently working on **ML & DL**
-- 🌱 I'm currently learning **MCP Server Security**
+- 🔭 I'm currently working on **devops**
+- 🌱 I'm currently learning **Linux**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 - 📫 Reach me **naimur2210026@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IaIsEEwelJzKPCx0ERpkCejXUeAlOes7/view?usp=sharing)
