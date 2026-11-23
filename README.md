@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **Linux**
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Naim-ECE?tab=repositories)
 - 📫 Reach me **naimur2210026@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IaIsEEwelJzKPCx0ERpkCejXUeAlOes7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YTmfDt-3dcsCBgEwXv504FvHiWTMXvcD/view?usp=drive_link)
 - ⚙ Current Occupation **Home Tutor**
 - ⚡ Fun fact **I think I am a funny person**
 
